@@ -1,4 +1,4 @@
-# BrownieSimpleStorage
+# Brownie simple storage
 Deployed simple storage contract using brownie
 
 ### Topics covered
